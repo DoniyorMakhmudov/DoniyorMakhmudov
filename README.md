@@ -77,9 +77,10 @@
 <a href="https://t.me/theHonoredOne66" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300BFFF.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="doniyormakhmudov66@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:doniyormakhmudov66@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
+
 </div>
   
   
