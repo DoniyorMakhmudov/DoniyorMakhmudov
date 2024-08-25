@@ -6,7 +6,7 @@
 ### <div align="center">I'm Doniyor, a Python Backend developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [E-commerce website using Django](https://github.com/DoniyorMakhmudov/magazin_p21)  
+- 🔭 I’m currently working on [Avtoelon API](https://github.com/DoniyorMakhmudov/AvtoElon_API)  
   
 
 - 🌱 I’m currently learning Data Structures & Algorithms and Django REST Framework  
